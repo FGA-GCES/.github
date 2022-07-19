@@ -1,4 +1,4 @@
-# Disciplina Gestão de Confinguração e Evolução de Softwar
+# Disciplina Gestão de Confinguração e Evolução de Software
 
 Material da disciplina obrigatória do curso de Engenharia de Software da Universidade de Brasília
 
