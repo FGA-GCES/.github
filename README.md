@@ -4,6 +4,6 @@ Material da disciplina obrigatória do curso de Engenharia de Software da Univer
 
 Professores responsáveis:
 
-- Professor Renat Coral - [renatocoral at unb.br](renatocoral at unb.br)
+- Professor Renat Coral -(renatocoral at unb.br)[renatocoral at unb.br]
 
-- Professora Carla Rocha - [caguiar at unb.br](caguiar at unb.br
+- Professora Carla Rocha - (caguiar at unb.br)[caguiar at unb.br]
